@@ -1,0 +1,3 @@
+# Mysterious Expo Managed Workflow Build Errors
+
+This repository demonstrates a common yet elusive issue encountered when using the Expo CLI's managed workflow.  The problem manifests as cryptic error messages during the build process, often related to native modules and lacking specific details to guide debugging.  The example code showcases a scenario where an interaction with a native module leads to a seemingly unrelated build failure. The solution involves careful examination of the project's configuration and dependencies to isolate and fix the underlying problem. 
